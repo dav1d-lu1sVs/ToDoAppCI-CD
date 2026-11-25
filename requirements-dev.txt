@@ -1,0 +1,6 @@
+# Dependencias para DESARROLLAR y PROBAR (tu PC y el pipeline CI)
+-r requirements.txt
+fastapi[standard]==0.165.0
+pytest==9.2.0
+pytest-cov==7.1.0
+ruff==0.17.6
